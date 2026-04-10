@@ -1,0 +1,41 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaveri Rajshekhar Umbarje | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <h1>Kaveri Rajshekhar Umbarje</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="introduction.html">Introduction</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="achievements.html">Achievements</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Welcome to My Portfolio</h2>
+            <p>I’m a B PHARM student passionate about pharmacy, AI, and innovation in healthcare.</p>
+            <a href="about.html" class="btn">Explore More</a>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:kaveriumbarje989@gmail.com">kaveriumbarje989@gmail.com</a></p>
+        <p>Phone: <a href="tel:9067160055">9067160055</a></p>
+        <p>GitHub: <a href="https://Kaveri-Umbarje.github.io" target="_blank">Kaveri-Umbarje.github.io</a></p>
+    </section>
+
+</body>
+</html>
